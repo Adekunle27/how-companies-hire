@@ -187,7 +187,7 @@ We believe in augmenting human intelligence, not replacing it.
 
 ### Reddit  
 
-We believe in augmenting human intelligence, not replacing it.
+At Reddit, you'll help build something that encourages millions around the world to think more, do more, learn more, feel more—and maybe even laugh more.
 
 <a href="https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit/">Acing Your Technical Interviews at Reddit</a>
 
