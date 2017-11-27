@@ -227,6 +227,10 @@ Stripe is the best way to accept payments online and in mobile apps. We handle b
 
 <a href="https://stripe.com/jobs/engineering-onsite.pdf">On-site interviews for Engineering: What to expect</a>
 
+</br>
+<hr />
+</br>
+
 ## Hiring Engineers with Ammon Bartram
 <a href="https://blog.ycombinator.com/hiring-engineers-with-ammon-bartram/">Y Combinator blog - Hiring Engineers</a>
 
