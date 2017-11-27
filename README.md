@@ -13,7 +13,7 @@ Use this resource to learn how companies hire. Compare your internal practices t
   - [Github](#github)
   - [Google](#google)
   - [Intercom](#intercom)
-  - [Mapbox](#papbox)
+  - [Mapbox](#mapbox)
   - [Medium](#medium)
   - [New Relic](#new-relic)
   - [Palantir](#palantir)
