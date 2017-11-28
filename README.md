@@ -37,6 +37,7 @@ If you'd like to add a company please send a PR with a new folder, the companies
 Jobeir is a job board for the best tech companies in the world. Our goal is to create a place where you canfind the best tech jobs in the world.
 
 <a href="https://jobeir.com">https://jobeir.com</a>  
+</br>  
 [![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
 
 
