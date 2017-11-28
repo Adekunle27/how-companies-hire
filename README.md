@@ -33,6 +33,17 @@ If you'd like to add a company please send a PR with a new folder, the companies
 <hr />
 </br>
 
+## What is Jobeir?
+Jobeir is a job board for the best tech companies in the world. Our goal is to create a place where you canfind the best tech jobs in the world.
+
+<a href="https://jobeir.com">https://jobeir.com</a>  
+[![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
+
+
+</br>
+<hr />
+</br>
+
 <img src="https://raw.githubusercontent.com/Jobeir/how-companies-hire/master/companies/asana/asana-logo.jpg" height="34px" alt="Asana logo" />
 
 ### Asana  
@@ -233,20 +244,6 @@ Stripe is the best way to accept payments online and in mobile apps. We handle b
 
 ## Hiring Engineers with Ammon Bartram
 <a href="https://blog.ycombinator.com/hiring-engineers-with-ammon-bartram/">Y Combinator blog - Hiring Engineers</a>
-
-</br>
-<hr />
-</br>
-
-## Jobeir
-<a href="https://jobeir.com">Find the best jobs at the best tech companies</a>
-  
-[![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
-
-
-</br>
-<hr />
-</br>
 
 ### License  
 
