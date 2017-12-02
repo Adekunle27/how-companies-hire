@@ -1,5 +1,5 @@
 # How companies hire and their interview guides
-A curated list by <a href="https://jobeir.com">Jobeir</a> of how comapnies hire. We've aggregated a collection of resources directly shared by different companies within technology to help you understand how companies hire. The majority of the content is focused around technical interviews and hiring software engineers.
+A curated list by <a href="https://jobeir.com">Jobeir</a> of how companies hire. We've aggregated a collection of resources directly shared by different companies within technology to help you understand how companies hire. The majority of the content is focused around technical interviews and hiring software engineers.
 
 Use this resource to learn how companies hire. Compare your internal practices to see how you differ.
 
@@ -27,14 +27,14 @@ Use this resource to learn how companies hire. Compare your internal practices t
 
 ### How do I add a company?  
 
-If you'd like to add a company please send a PR with a new folder, the companies official logo, and at least 1 publicly available link to their hiring process.
+If you'd like to add a company please send a PR with a new folder, the company's official logo, and at least 1 publicly available link to their hiring process.
 
 </br>
 <hr />
 </br>
 
 ## What is Jobeir?
-Jobeir is a job board for the best tech companies in the world. Our goal is to create a place where you canfind the best tech jobs in the world.
+Jobeir is a job board for the best tech companies in the world. Our goal is to create a place where you can find the best tech jobs in the world.
 
 <a href="https://jobeir.com">https://jobeir.com</a>  
 </br>  
@@ -61,7 +61,7 @@ Asana’s mission is to help humanity thrive by enabling all teams to work toget
 
 ### Auth0  
 
-Auth0 solve's the most complex and large-scale identity use cases for global enterprises with our extensible and easy-to-integrate platform, securing billions of logins every year.
+Auth0 solves the most complex and large-scale identity use cases for global enterprises with our extensible and easy-to-integrate platform, securing billions of logins every year.
 
 <a href="https://auth0.com/blog/how-we-hire-engineers/">How we hire engineers</a>
 
@@ -85,7 +85,7 @@ Buffer is the best way to drive traffic, increase fan engagement and save time o
 
 ### Evernote  
 
-We are talented, diverse, and spirited team making a meaningful impact on the productivity and success of millions of people around the world.
+We are a talented, diverse, and spirited team making a meaningful impact on the productivity and success of millions of people around the world.
 
 <a  href="http://www.greenhouse.io/blog/how-we-hire-a-look-inside-evernotes-revamped-recruiting-process">A Look Inside Evernote's Revamped Recruiting Process</a>
 
@@ -199,7 +199,7 @@ We believe in augmenting human intelligence, not replacing it.
 
 ### Reddit  
 
-At Reddit, you'll help build something that encourages millions around the world to think more, do more, learn more, feel more—and maybe even laugh more.
+At Reddit, you'll help build something that encourages millions around the world to think more, do more, learn more, feel more — and maybe even laugh more.
 
 <a href="https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit/">Acing Your Technical Interviews at Reddit</a>
 
