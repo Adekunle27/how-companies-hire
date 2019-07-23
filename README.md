@@ -1,5 +1,5 @@
 # How companies hire and their interview guides
-A curated list by <a href="https://jobeir.com">Jobeir</a> of how companies hire. We've aggregated a collection of resources directly shared by different companies within technology to help you understand how companies hire. The majority of the content is focused around technical interviews and hiring software engineers.
+A curated list by the team at <a href="https://narative.co">Narative</a> of how companies hire. We've aggregated a collection of resources directly shared by different companies within technology to help you understand how companies hire. The majority of the content is focused around technical interviews and hiring software engineers.
 
 Use this resource to learn how companies hire. Compare your internal practices to see how you differ.
 
@@ -28,18 +28,6 @@ Use this resource to learn how companies hire. Compare your internal practices t
 ### How do I add a company?  
 
 If you'd like to add a company please send a PR with a new folder, the company's official logo, and at least 1 publicly available link to their hiring process.
-
-</br>
-<hr />
-</br>
-
-## What is Jobeir?
-Jobeir is a job board for the best tech companies in the world. Our goal is to create a place where you can find the best tech jobs in the world.
-
-<a href="https://jobeir.com">https://jobeir.com</a>  
-</br>  
-[![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
-
 
 </br>
 <hr />
